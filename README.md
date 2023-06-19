@@ -6,7 +6,7 @@ This is a Solo Assignment from Chai Corporation:
 
 About PORTONE:- Portone Global is a SaaS platform enabling payments. Using PortOne’s unified API, merchants are able to instantaneously connect and manage multiple payment gateways, eWallets and other local payment options for processing customer payments efficiently.
 
-Project_Images : -
+**Project_Images : -**
 
 ![Screenshot (112)](https://github.com/desiignerASUS/PortOne_assignment1/assets/107504721/497d375e-98b9-424e-8a3b-28518b382261)
 
@@ -21,10 +21,10 @@ Project_Images : -
 ![Screenshot (117)](https://github.com/desiignerASUS/PortOne_assignment1/assets/107504721/503c61a5-e4d2-42d1-8a06-191030cc4683)
 
 
-💫Tech & Tools Used :
+💫**Tech & Tools Used :**
 Cypress, JavaScript, Mochawesome Report, Github, Netlify
 
-Steps to run the project locally:-
+**Steps to run the project locally:-**
 
 Clone the code from GitHub
 
@@ -32,8 +32,8 @@ Run 'node_modules/.bin/cypress open' for running in any browser
 
 Enjoy!
 
-Deployed Link Report: https://capable-fairy-e51451.netlify.app/
+**Deployed Link Report:** https://capable-fairy-e51451.netlify.app/
 
-Project Presentation: ----
+**Project Presentation:** ----
 
 ✨Thank You✨
