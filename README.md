@@ -3,9 +3,11 @@
 This is a Solo Assignment from Chai Corporation:
 
 💻Project Unique Name :-##PortOne Assignment ✈️
+
 About PORTONE:- Portone Global is a SaaS platform enabling payments. Using PortOne’s unified API, merchants are able to instantaneously connect and manage multiple payment gateways, eWallets and other local payment options for processing customer payments efficiently.
 
 Project_Images : -
+
 ![Screenshot (112)](https://github.com/desiignerASUS/PortOne_assignment1/assets/107504721/497d375e-98b9-424e-8a3b-28518b382261)
 
 ![Screenshot (113)](https://github.com/desiignerASUS/PortOne_assignment1/assets/107504721/0c56368a-c271-45cc-ac63-46ed4018e455)
